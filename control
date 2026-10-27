@@ -1,5 +1,9 @@
-iphone 7
-iOS 15.7.8
-Jailbreak: Dopamine
-Package: NoRedRecord
-Scheme: rootless
+Package: com.noredrecord.tweak
+Name: NoRedRecord
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Твик чтобы убрать красную хуйню когда делаешь запись экрана
+Maintainer: f1lony
+Author: f1lony
+Section: Tweaks
+Depends: mobilesubstrate
